@@ -1,0 +1,29 @@
+# Environments
+.env
+.venv
+venv/
+env/
+
+# IDE and editor folders
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files - Add your data files/folders here
+# If your data is small, you can remove these lines
+data/
+Train/
+Test/
+*.csv
+
+# Trained models (if large)
+models/
+*.h5
+*.keras
+*.pkl
