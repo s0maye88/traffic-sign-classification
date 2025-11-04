@@ -62,6 +62,7 @@ traffic-sign-classification/
 ├── demo.ipynb                                          # Notebook for testing predictions
 ├── Meta/                                               # Folder with sample images for each class
 ├── .gitignore
+├── requirements.txt
 └── README.md
 ```
 
@@ -83,4 +84,5 @@ The model achieves an accuracy of approximately **98%** on the test set.
 ## 📜 License
 
 This project is licensed under the MIT License. Copyright (c) 2025, s0maye88.
+
 
