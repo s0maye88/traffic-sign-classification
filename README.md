@@ -82,4 +82,5 @@ The model achieves an accuracy of approximately **98%** on the test set.
 
 ## 📜 License
 
-This project is licensed under the MIT License. Copyright (c) 2024, s0maye88.
+This project is licensed under the MIT License. Copyright (c) 2025, s0maye88.
+
